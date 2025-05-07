@@ -1,8 +1,4 @@
-# To run docker container:
-
-- docker-compose up --build
-- Go to http://localhost:4000 to see your live site!
-
+# Machine Learning for URL Classification and Malicious URL Detection
 
 Welcome to the GitHub Page for this Machine Learning Project which applies several machine learning algorithms for the purposes of applied research in classification of benign and malicious Uniform Resource Locators (URLs). This project was born out of interest and profound need for advanced uses of AI to enhance the field of cybersecurity and internet safety. 
 
@@ -11,3 +7,8 @@ This site is a secondary address after the original website was deprecated due t
 Thank you. 
 
 - Nikk
+
+# To run docker container:
+
+- docker-compose up --build
+- Go to http://localhost:4000 to see your live site!
